@@ -41,3 +41,12 @@ int main(){
   retrun 0;
 }
 ```
+
+## PHP templete
+
+```php
+$variable = "";
+
+//This is decleared as variable
+echo $variable;
+```
