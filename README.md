@@ -14,6 +14,7 @@ git add <filename or . for everything>
 git commit -m "Commit messege"
 git push origin <branch name>
 ```
+## java template
 
 ```java
 import java.util.Scanner;
