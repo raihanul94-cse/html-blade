@@ -8,7 +8,7 @@ This is the index file of the site
 
 ```bash
 git init
-git remote add orgin <gitpath>
+git remote add orgin <git path>
 git remote -v
 git add <filename or . for everything>
 git commit -m "Commit messege"
