@@ -14,7 +14,7 @@ git add <filename or . for everything>
 git commit -m "Commit messege"
 git push origin <branch name>
 ```
-## java template
+## Java template
 
 ```java
 import java.util.Scanner;
@@ -30,7 +30,7 @@ public class Demo{
 }
 ```
 
-## c template
+## C template
 
 
 ```c
@@ -45,8 +45,21 @@ int main(){
 ## PHP templete
 
 ```php
+<?php
 $variable = "";
-
-//This is decleared as variable
 echo $variable;
+?>
 ```
+
+## C++
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main(){
+  
+  cout << "Hello World";
+  retrun 0;
+}
