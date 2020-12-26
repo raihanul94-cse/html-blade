@@ -65,4 +65,4 @@ int main(){
 }
 ```
 ## Contact
-[WEBSITE] (http://raihanul-islam.info)
+[MIT](https://choosealicense.com/licenses/mit/)
