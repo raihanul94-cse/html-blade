@@ -10,7 +10,21 @@ This is the index file of the site
 git init
 git remote add orgin <gitpath>
 git remote -v
-git add <filename or . from everything>
+git add <filename or . for everything>
 git commit -m "Commit messege"
 git push origin <branch name>
+```
+
+```java
+import java.util.Scanner;
+
+public class Demo{
+  public static void main(String args[]){
+    Scanner scan = new Scanner(System.in);
+    
+    System.out.print("Enter a number");
+    int number = scan.nextInt();
+  
+  }
+}
 ```
